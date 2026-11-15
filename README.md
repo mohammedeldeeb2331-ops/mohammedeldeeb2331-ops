@@ -1,6 +1,6 @@
 # Hi, I'm ENG.Mohamed! 👋
 
-I'm a beginner Python developer passionate about programming and problem-solving.
+I'm a Python developer passionate about programming and problem-solving.
 
 ## 🚀 About Me
 - 🌱 Currently learning Python.
