@@ -1,4 +1,28 @@
-## Hi there 👋
+# Hi, I'm Mohamed! 👋
+
+I'm a beginner Python developer passionate about programming and problem-solving.
+
+## 🚀 About Me
+- 🌱 Currently learning Python.
+- 📊 Learning Pandas and data cleaning.
+- 💻 Building practical projects to improve my skills.
+
+## 🛠️ Skills
+- Python
+- Pandas
+- Excel Automation
+- Git & GitHub
+
+## 📂 My Projects
+
+### Excel Cleaner
+A Python tool that cleans Excel files using Pandas.
+
+[View Project](https://github.com/mohammedeldeeb2331-ops/Excel-Cleaner)
+
+---
+
+Thanks for visiting my profile! 🚀
 
 <!--
 **mohammedeldeeb2331-ops/mohammedeldeeb2331-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
