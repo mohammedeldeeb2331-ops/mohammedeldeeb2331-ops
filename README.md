@@ -1,46 +1,56 @@
-# Hi, I'm ENG.Mohamed! 👋
+# Hi, I'm Mohamed! 👋
 
-I'm a Python developer passionate about programming and problem-solving.
+### Python Developer | Data Analysis Enthusiast
+
+I'm passionate about programming, problem-solving, and building practical projects using Python.
 
 ## 🚀 About Me
-- 🌱 Currently learning Python.
-- 📊 Learning Pandas and data cleaning.
-- 💻 Building practical projects to improve my skills.
 
-## 🛠️ Skills
-- Python
-- Pandas
-- Excel Automation
-- Git & GitHub
+- 🌱 Continuously learning Python and data analysis.
+- 📊 Working with Pandas to analyze and clean data.
+- 📈 Creating data visualizations using Matplotlib.
+- 💻 Building practical projects and improving my problem-solving skills.
+- 🎯 Focused on developing my programming skills through hands-on experience.
 
-## 🧰 Technologies & Tools
+## 🛠️ Skills & Technologies
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- **Programming:** Python
+- **Data Analysis:** Pandas
+- **Data Visualization:** Matplotlib
+- **Data Handling:** CSV & Excel Automation
+- **Tools:** Git, GitHub, VS Code
 
 ## 📂 My Projects
 
-### Excel Cleaner
+### 1. 📊 Sales Data Analyzer
+
+A Python project that analyzes sales data and generates useful insights.
+
+**Features:**
+- Sales and profit analysis.
+- Product and category performance.
+- Monthly sales analysis.
+- Profit Margin calculations.
+- Data visualization using Matplotlib.
+
+[View Project →](https://github.com/mohammedeldeeb2331-ops/Sales-Data-Analyzer)
+
+### 2. 📁 Excel Cleaner
+
 A Python tool that cleans Excel files using Pandas.
 
-[View Project](https://github.com/mohammedeldeeb2331-ops/Excel-Cleaner)
+**Features:**
+- Handles missing data.
+- Performs basic email validation.
+- Removes incomplete records.
+- Exports cleaned Excel files.
+
+[View Project →](https://github.com/mohammedeldeeb2331-ops/Excel-Cleaner)
+
+## 📫 Connect With Me
+
+- GitHub: [@mohammedeldeeb2331-ops](https://github.com/mohammedeldeeb2331-ops)
 
 ---
 
-Thanks for visiting my profile! 🚀
-
-<!--
-**mohammedeldeeb2331-ops/mohammedeldeeb2331-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Thanks for visiting my profile!
