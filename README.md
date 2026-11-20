@@ -14,11 +14,14 @@ I'm passionate about programming, problem-solving, and building practical projec
 
 ## 🛠️ Skills & Technologies
 
-- **Programming:** Python
-- **Data Analysis:** Pandas
-- **Data Visualization:** Matplotlib
-- **Data Handling:** CSV & Excel Automation
-- **Tools:** Git, GitHub, VS Code
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
 ## 📂 My Projects
 
